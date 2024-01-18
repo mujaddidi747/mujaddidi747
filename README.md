@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Absar Ahmed Mujaddidi</h1>
 <h3 align="center">Code Guardian: Ensuring Software Excellence through Testing</h3>
-<img align = "right" alt="Testing" width ="400" src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F01%2F36%2F51%2F44%2F360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg&tbnid=FMSa4WcCdk6eaM&vet=12ahUKEwje2cWjrOaDAxWgmicCHaqSBpMQMygBegQIARBU..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dsoftware%2Btester&docid=MJkCIPzCkzJcSM&w=840&h=360&q=software%20tester%20AI%20wallpaper&ved=2ahUKEwje2cWjrOaDAxWgmicCHaqSBpMQMygBegQIARBU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujaddidi747&label=Profile%20views&color=0e75b6&style=flat" alt="mujaddidi747" /> </p>
 

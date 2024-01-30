@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujaddidi747" alt="mujaddidi747" /></a> </p>
 
-- 🌱 I’m currently learning **Java SpringBoot and Playwright**
-
 - 🤝 I’m looking for help with **Playwright Automation**
 
 - 👨‍💻 All of my projects are available at [github.com/mujaddidi747](github.com/mujaddidi747)
 
-- 💬 Ask me about **Quality Assurance, Agile, Automation and Selenium**
+- 💬 Ask me about **Quality Assurance, Software Testing, Agile, Automation and Selenium**
 
 - 📫 How to reach me **absarmujaddidi@hotmail.com**
 
